@@ -1,0 +1,6 @@
+# ULTRON voice stack
+SpeechRecognition>=3.10.0
+sounddevice>=0.4.7
+numpy>=1.26.0
+elevenlabs>=2.0.0
+python-dotenv>=1.0.0
